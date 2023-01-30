@@ -13,7 +13,7 @@ defineProps({
     <h3>
       Assignment done by : S Waruna L Silva
       <a href="https://github.com/waruna-lakshantha/orangehrm_fe" target="_blank" rel="noopener">GitHub-FE</a> |
-      <a href="https://github.com/waruna-lakshantha/orangehrm_api" target="_blank" rel="noopener">GitHub-API</a> |      
+      <a href="https://github.com/waruna-lakshantha/orangehrm_api/tree/master" target="_blank" rel="noopener">GitHub-API</a> |      
       <a href="https://www.linkedin.com/in/warunalakshantha/" target="_blank" rel="noopener">LinkedIn</a>.
     </h3>
   </div>
